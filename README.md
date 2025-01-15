@@ -2,6 +2,9 @@
 
 Sistema de gerenciamento de empresas com funcionalidades CRUD e suporte a operações offline.
 
+![image](https://github.com/user-attachments/assets/4f9bcef2-3cee-476e-a0ee-f06da92f048e)
+
+
 ## 📋 Sobre o Projeto
 Sistema desenvolvido com Node.js e React que permite o gerenciamento completo de empresas, com suporte a operações offline e sincronização automática.
 
